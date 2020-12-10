@@ -1,9 +1,8 @@
 # Entrega Proyecto 3
-Entrega Proyecto 3
 
      La presente entrega refiere a la incorporación de la API, consumirla, definición de modelo Shell, service worker y manifiesto. En este documento se expondrán dichas funciones, como fueron implementadas y testeadas, entre otras consideraciones.
-
-Enlaces e información de interés
+     
+Enlaces e información de interés:
 
      Planificacion Trello: https://trello.com/b/aIw41MCq/proyecto-django-rest-framework
      Credenciales admin: Admintester@gmail.com /password= unodostres
