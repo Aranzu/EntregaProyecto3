@@ -1,5 +1,5 @@
-# EntregaProyecto3
-EntregaProyecto3
+# Entrega Proyecto 3
+Entrega Proyecto 3
 
      La presente entrega refiere a la incorporación de la API, consumirla, definición de modelo Shell, service worker y manifiesto. En este documento se expondrán dichas funciones, como fueron implementadas y testeadas, entre otras consideraciones.
 
