@@ -55,6 +55,8 @@ function bruteforce(id_num){
 
 }
 
+/*Está es la función encargada de guardar el usuario registrado*/
+
 function prueba(){
     var email1 = document.getElementById('inputEmail').value 
     var username1 = document.getElementById('inputUsername').value
